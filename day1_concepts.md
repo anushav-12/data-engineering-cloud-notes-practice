@@ -3,6 +3,9 @@
 ## What is Data Engineering?
 Data Engineering focuses on building systems that collect, process, and store data reliably.
 
+## What does a Data Engineer basically do?
+Data Engineers building reliable pipelines to move, clean, and store data
+
 ## Typical data pipeline
 Source → Ingestion → Processing → Storage → Consumption
 
